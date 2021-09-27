@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer who is passionate about creating software and extending technologies that can help in any way possible. Some technologies I enjoy working with include .Net, Blazor, JavaScript, APIs, Markdown, HTML, SVG, SQL, OData and many others.
+I'm a software engineer who is passionate about creating software and extending technologies that can help in any way possible. Some technologies I enjoy working with include DotNet, AspNet, MVC, Blazor, JavaScript, Kendo UI, APIs, Markdown, HTML, SVG, SQL, OData and many others.
 
 <!--
 **renevdhoek/renevdhoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

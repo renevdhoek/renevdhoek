@@ -17,8 +17,11 @@ mindmap
     C#
       C# 12
       (Source Generators)
+    TypeScript
     SPA
-      VueJS
+      Vue 3
+      (Blazor Server)
+      (Blazor WASM)
     ASPNET
       Minimal API
 ```

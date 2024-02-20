@@ -11,8 +11,7 @@ mindmap
 ```mermaid
 mindmap
   root
-    General development skills
-      Version control
+    General development skills      
         GIT commandline
     C#
       C# 12

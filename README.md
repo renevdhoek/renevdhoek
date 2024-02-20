@@ -2,12 +2,20 @@
 I'm a software engineer who is passionate about creating software and extending technologies that can help in any way possible. Some technologies I enjoy working with include DotNet, AspNet, MVC, Blazor, JavaScript, Kendo UI, APIs, Markdown, HTML, SVG, SQL, OData and many others.
 
 ```mermaid
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+mindmap
+        root
+            child1((Circle))
+                grandchild 1
+                grandchild 2
+            child2(Round rectangle)
+                grandchild 3
+                grandchild 4
+            child3[Square]
+                grandchild 5
+                ::icon(mdi mdi-fire)
+                gc6((grand<br/>child 6))
+                ::icon(mdi mdi-fire)
+                gc7((grand<br/>grand<br/>child 8))
 ```
 
 <!--

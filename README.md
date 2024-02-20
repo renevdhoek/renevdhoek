@@ -27,9 +27,10 @@ mindmap
       (Blazor Server)
       (Blazor WASM)
     ASPNET
-      (Minimal API)
+      HealthChecks
       OpenAPI
-      Open Telemetry
+      OpenTelemetry
+      (Minimal API)
     Database
       EF Core migrations
       (EF Core)

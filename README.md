@@ -10,15 +10,17 @@ mindmap
 
 ```mermaid
 mindmap
-        root
-                General development skills
-                        Version control
-                                GIT commandline
-                C#
-                        C# 12
-                        (Source Generators)
-
-                Typescript                
+  root
+    General development skills
+      Version control
+        GIT commandline
+    C#
+      C# 12
+      (Source Generators)
+    SPA
+      VueJS
+    ASPNET
+      Minimal API
 ```
 
 <!--

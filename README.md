@@ -41,6 +41,12 @@ mindmap
         Microsoft Entra
         (Bicep Template)
         (Azure CLI)
+    CI / CD
+      Docker deployment
+      Documentation as Code
+        C4-model
+        (Mermaid)
+        (C4sharp)
 ```
 
 <!--

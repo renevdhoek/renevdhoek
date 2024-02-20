@@ -3,36 +3,22 @@ I'm a software engineer who is passionate about creating software and extending 
 
 ```mermaid
 mindmap
-        root
-            child1((Circle))
-                grandchild 1
-                grandchild 2
-            child2(Round rectangle)
-                grandchild 3
-                grandchild 4
-            child3[Square]
-                grandchild 5
-                ::icon(mdi mdi-fire)
-                gc6((grand<br/>child 6))
-                ::icon(mdi mdi-fire)
-                gc7((grand<br/>grand<br/>child 8))
+        legend
+            Must know
+            (Good to know)
 ```
 
 ```mermaid
 mindmap
         root
-            child1((Circle))
-                grandchild 1
-                grandchild 2
-            child2(Round rectangle)
-                grandchild 3
-                grandchild 4
-            child3[Square]
-                grandchild 5
-                ::icon(mdi mdi-fire)
-                gc6((grand<br/>child 6))
-                ::icon(mdi mdi-fire)
-                gc7((grand<br/>grand<br/>child 8))
+                General development skills
+                        Version control
+                                GIT commandline
+                C#
+                        C# 12
+                        (Source Generators)
+
+                Typescript                
 ```
 
 <!--

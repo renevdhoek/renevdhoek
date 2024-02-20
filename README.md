@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer who is passionate about creating software and extending technologies that can help in any way possible. Some technologies I enjoy working with include DotNet, AspNet, MVC, Blazor, JavaScript, Kendo UI, APIs, Markdown, HTML, SVG, SQL, OData and many others.
+I'm a software engineer who is passionate about creating software and extending technologies that can help in any way possible. Some technologies I enjoy working with include DotNet, AspNet, Vue, Blazor, SVG, and many others. Underneath I created a personal roadmap
 
 ```mermaid
 mindmap
@@ -11,18 +11,29 @@ mindmap
 ```mermaid
 mindmap
   root
-    General development skills      
+    Development tools      
         GIT commandline
+        (Jetbrains Rider)
+    Testing
+      Playwright
+      BenchmarkDotNet
     C#
       C# 12
       (Source Generators)
-    TypeScript
     SPA
       Vue 3
+        Unit Test
+        TypeScript
       (Blazor Server)
       (Blazor WASM)
     ASPNET
       (Minimal API)
+    Database
+      EF Core migrations
+      (EF Core)
+    Messaging
+      MQTT
+      RabbitMQ
     Cloud
       Azure
         Microsoft Entra

@@ -18,6 +18,23 @@ mindmap
                 gc7((grand<br/>grand<br/>child 8))
 ```
 
+```mermaid
+mindmap
+        root
+            child1((Circle))
+                grandchild 1
+                grandchild 2
+            child2(Round rectangle)
+                grandchild 3
+                grandchild 4
+            child3[Square]
+                grandchild 5
+                ::icon(mdi mdi-fire)
+                gc6((grand<br/>child 6))
+                ::icon(mdi mdi-fire)
+                gc7((grand<br/>grand<br/>child 8))
+```
+
 <!--
 **renevdhoek/renevdhoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

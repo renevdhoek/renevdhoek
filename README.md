@@ -22,7 +22,12 @@ mindmap
       (Blazor Server)
       (Blazor WASM)
     ASPNET
-      Minimal API
+      (Minimal API)
+    Cloud
+      Azure
+        Microsoft Entra
+        (Bicep Template)
+        (Azure CLI)
 ```
 
 <!--

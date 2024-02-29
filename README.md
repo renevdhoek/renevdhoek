@@ -23,10 +23,9 @@ mindmap
       BenchmarkDotNet
     DOTNET
       C# 12
-      (Source Generators)    
-    ASPNET
       HealthChecks
-      (Minimal API)
+      (Source Generators)      
+      Minimal API    
     SPA Frameworks
       Vue 3
         Unit Test

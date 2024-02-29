@@ -28,7 +28,7 @@ mindmap
       OpenAPI
       OpenTelemetry
       (Minimal API)
-    SPA Framework
+    SPA Frameworks
       Vue 3
         Unit Test
         TypeScript

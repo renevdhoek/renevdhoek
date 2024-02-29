@@ -13,7 +13,8 @@ mindmap
   root
     Standards & protocols
         Syslog
-        Open Telemetry
+        OpenAPI
+        (Open Telemetry)
     Development tools      
         GIT commandline
         (Jetbrains Rider)
@@ -25,8 +26,6 @@ mindmap
       (Source Generators)    
     ASPNET
       HealthChecks
-      OpenAPI
-      OpenTelemetry
       (Minimal API)
     SPA Frameworks
       Vue 3

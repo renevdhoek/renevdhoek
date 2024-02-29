@@ -11,26 +11,29 @@ mindmap
 ```mermaid
 mindmap
   root
+    Standards & protocols
+        Syslog
+        Open Telemetry
     Development tools      
         GIT commandline
         (Jetbrains Rider)
     Testing
       Playwright
       BenchmarkDotNet
-    C#
+    DOTNET
       C# 12
-      (Source Generators)
-    SPA
-      Vue 3
-        Unit Test
-        TypeScript
-      (Blazor Server)
-      (Blazor WASM)
+      (Source Generators)    
     ASPNET
       HealthChecks
       OpenAPI
       OpenTelemetry
       (Minimal API)
+    SPA Framework
+      Vue 3
+        Unit Test
+        TypeScript
+      (Blazor Server)
+      (Blazor WASM)
     Database
       EF Core migrations
       (EF Core)

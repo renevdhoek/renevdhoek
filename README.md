@@ -12,6 +12,9 @@ mindmap
 ```mermaid
 mindmap
   root
+    Information Security
+        CISM
+        CISSP
     Standards & protocols
         Syslog
         OpenAPI

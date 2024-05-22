@@ -13,8 +13,8 @@ mindmap
 mindmap
   root
     Information Security
-        CISM
-        CISSP
+        (CISM)
+        (CISSP)
     Standards & protocols
         Syslog
         OpenAPI

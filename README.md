@@ -10,7 +10,7 @@ mindmap
             (Good to know)
 ```
 
-## Software development skills
+## Software development roadmap
 ```mermaid
 mindmap
   ((˵ ͡° ͜ʖ ͡°˵))    
@@ -47,7 +47,7 @@ mindmap
       Documentation as Code
 ```
 
-## Soft skills
+## Soft skills roadmap
 ```mermaid
 mindmap
   ((˵ ͡° ͜ʖ ͡°˵))

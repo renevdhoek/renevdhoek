@@ -10,21 +10,11 @@ mindmap
             (Good to know)
 ```
 
+## Software development skills
 ```mermaid
 mindmap
-  root
-    Project Management
-        Scrum
-                (PSPO I)
-        (AgilePM)
-    Information Security
-        (CISM)
-        (CISSP)
-    Standards & protocols
-        Syslog
-        OpenAPI
-        (Open Telemetry)
-    Development tools      
+  root    
+    Tools      
         GIT commandline
         (Jetbrains Rider)
     Testing
@@ -55,6 +45,23 @@ mindmap
     CI / CD
       Docker deployment
       Documentation as Code
+```
+
+## Soft skills
+```mermaid
+mindmap
+  root
+    Project Management
+        Scrum
+                (PSPO I)
+        (AgilePM)
+    Information Security
+        (CISM)
+        (CISSP)
+    Standards & protocols
+        Syslog
+        OpenAPI
+        (Open Telemetry)
 ```
 
 <!--

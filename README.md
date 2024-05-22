@@ -13,7 +13,7 @@ mindmap
 ## Software development skills
 ```mermaid
 mindmap
-  root    
+  (˵ ° ʖ °˵)    
     Tools      
         GIT commandline
         (Jetbrains Rider)
@@ -50,7 +50,7 @@ mindmap
 ## Soft skills
 ```mermaid
 mindmap
-  root
+  (˵ ͡° ͜ʖ ͡°˵)
     Project Management
         Scrum
                 (PSPO I)

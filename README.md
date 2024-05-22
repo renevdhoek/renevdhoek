@@ -13,7 +13,7 @@ mindmap
 ## Software development skills
 ```mermaid
 mindmap
-  (˵ ° ʖ °˵)    
+  ((˵ ͡° ͜ʖ ͡°˵)    
     Tools      
         GIT commandline
         (Jetbrains Rider)

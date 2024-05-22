@@ -19,7 +19,7 @@ mindmap
         (Jetbrains Rider)
     Testing
       Playwright
-      BenchmarkDotNet
+      (BenchmarkDotNet)
     DOTNET
       C# 12
       HealthChecks
